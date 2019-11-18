@@ -60,6 +60,23 @@ html { font-size: 62.5%; }
     background-color: #4CAF50;
     color: white;
 }
+
+.leden th {
+  tdst-style-type: none;
+  overflow: auto;
+  text-atdgn: center;
+  padding-intdne-start: 0px;
+}
+
+.leden td {
+  text-atdgn: center;
+  vertical-atdgn: top;
+  padding: 1em 0;
+  height: auto;
+  width: 170px;
+  display: intdne-block;
+}
+
 body {
   font-size: 1.6rem;
   font-family: "Open Sans", sans-serif;
